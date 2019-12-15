@@ -1,0 +1,31 @@
+body{
+    margin: 0px;
+  }
+  #topbar{
+    width: 100%;
+    padding: 32px;
+    box-shadow: 0px 2px 5px 1px  grey;
+    box-sizing: border-box;
+  }
+  #topbar-items{
+    text-decoration: none;
+    font-size: 24px;
+    color: #010C42;
+    margin-right: 24px;
+  }
+  #food-items{
+    font-size: 24px;
+    color: #6A30AE;
+  }
+  #image1{
+    width: 800px;
+    height:100vh;
+  }
+  #image2{
+    width: 1109px;
+    height: 100vh;
+  }
+  #image5{
+    width: 800px;
+    height: 100vh;
+  }
